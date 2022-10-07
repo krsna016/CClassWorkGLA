@@ -1,0 +1,21 @@
+/* 
+* Write a program in C to enter P,T,R and calculate Compound interest?
+* Student name : Anurag pareek 
+* Sec : J
+*/
+# include <math.h>
+# include <stdio.h>
+int main()
+{
+    int P,T,R,compound_interest,power;
+    printf("Enter the 'rate' of intrest : ");
+    scanf("%d",&R);
+    printf("Enter the 'time' value (in years) : ");
+    scanf("%d",&T);
+    printf("Enter the 'principal' amount : ");
+    scanf("%d",&P);
+    power = pow((1+R),T);
+    compound_interest = (P*power)-P;
+    printf("The compound intrest is : %d\n",compound_interest);
+    return 0;
+}

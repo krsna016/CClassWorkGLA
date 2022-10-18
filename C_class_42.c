@@ -10,7 +10,14 @@ int main()
     int number,even_odd;
     printf("Enter a number to check whether it is EVEN or ODD : ");
     scanf("%d",&number);
-    even_odd = number >> 1 - ;
-    printf("%d",even_odd);
+    even_odd = number & 1; // LOGIC: Every odd binary number have 1 at it's end i.e 5 = 101 and 101 * 001 = 001 == 1
+    if (even_odd == 1)
+    {
+        printf("The number is a ODD number.\n");
+    }
+    else
+    {
+        printf("The number is a EVEN number.\n");
+    }
     return 0;
 }

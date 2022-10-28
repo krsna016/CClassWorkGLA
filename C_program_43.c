@@ -1,6 +1,8 @@
 /*
-Write a program Using switch-case to take
-user Id and password and respond accordingly ?
+* Write a program Using switch-case to take
+* user Id and password and respond accordingly ?
+* Student name : Anurag pareek
+* Sec : J
 */ 
 
 # include <stdio.h>

@@ -1,5 +1,7 @@
 /*
-Write a program each about If, If-Else, If-Else If-Else and Nested If ?
+* Write a program each about If, If-Else, If-Else If-Else and Nested If ?
+* Student name : Anurag pareek
+* Sec : J
 */
 
 // IF:

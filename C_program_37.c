@@ -1,8 +1,8 @@
 /*
-Write a program to find the lowest marks of three students using 
-conditional operator ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to find the lowest marks of three students using 
+* conditional operator ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

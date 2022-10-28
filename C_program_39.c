@@ -1,7 +1,7 @@
 /*
-Write a program to divide a number by 64 without using division operator ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to divide a number by 64 without using division operator ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

@@ -1,8 +1,8 @@
 /*
-Write a program to multiply a number by 16 without using
-multiplication or addition operator ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to multiply a number by 16 without using
+* multiplication or addition operator ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

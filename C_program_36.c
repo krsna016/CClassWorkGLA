@@ -1,8 +1,8 @@
 /*
-Write a program to find the size of all data types 
-(int, float, char, double, long double, short int etc.) ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to find the size of all data types 
+* (int, float, char, double, long double, short int etc.) ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

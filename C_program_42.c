@@ -1,8 +1,8 @@
 /*
-Write a program to find out whether inputted number is even or odd
-without using arithmetic operators ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to find out whether inputted number is even or odd
+* without using arithmetic operators ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

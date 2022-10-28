@@ -1,7 +1,7 @@
 /*
-Write a program where to use all the 'Arithmetic operators'?
-Student name : Anurag pareek
-Sec : J 
+* Write a program where to use all the 'Arithmetic operators'?
+* Student name : Anurag pareek
+* Sec : J 
 */
 # include <stdio.h>
 int main()

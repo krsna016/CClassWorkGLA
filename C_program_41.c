@@ -1,8 +1,8 @@
 /*
-Write a program to multiply a number by 65 
-without using multiplication operator ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to multiply a number by 65 
+* without using multiplication operator ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

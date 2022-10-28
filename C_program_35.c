@@ -1,7 +1,7 @@
 /*
-Write a program to interchange two values by using Bitwise operator ?
-Student name : Anurag pareek
-Sec : J-1
+* Write a program to interchange two values by using Bitwise operator ?
+* Student name : Anurag pareek
+* Sec : J
 */
 # include <stdio.h>
 int main()

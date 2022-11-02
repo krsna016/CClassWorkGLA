@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "c_program_63": "c"
+        "c_program_63": "c",
+        "math.h": "c",
+        "stdio.h": "c"
     }
 }
